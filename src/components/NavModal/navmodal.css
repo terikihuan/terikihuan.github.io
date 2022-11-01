@@ -1,0 +1,23 @@
+.navModal {
+  position: absolute;
+  height: 100vh;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.navModal__nav {
+  margin: 3.5rem 3rem;
+  background-color: #fff;
+  height: 86vh;
+  font-size: 2rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  gap: 1rem;
+}

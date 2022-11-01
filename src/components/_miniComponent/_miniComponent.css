@@ -1,0 +1,21 @@
+.logo {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+.button {
+  padding: 0.7rem 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  border-radius: 20px;
+  border: none;
+}
+
+.glowingButton {
+  transition: all 0.2s ease-in-out;
+}
+
+.glowingButton:hover {
+  box-shadow: 0 5px 15px rgba(145, 92, 182, 0.4);
+}

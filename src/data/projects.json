@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Banh Mi Kitchen Ecommerce",
+    "description": "This is an Ecommerce website selling Banh Mi (Vietnamese Sandwich). The website has multiple pages, providing different information about the business.",
+    "project_type": "Responsive Website",
+    "technology": "HTML, CSS, Plain JavaScript",
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1648183651/my-portfolio/banhmi-website_xrjkph.png",
+    "website_link": "https://banh-mi.vercel.app/",
+    "theme_color": "#FDD580"
+  },
+  {
+    "title": "NJU Dashboard Web App",
+    "description": "A comprehensive web app for NJU students to manage their studies online. Students can login to check their curriculum, select and withdraw courses. This is inspired by the real students managing system in NJU.",
+    "project_type": "Web App",
+    "technology": "HTML, CSS, React",
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1648183651/my-portfolio/nju_dashboard_kwtnp3.png",
+    "website_link": "https://nju-dashboard-zh.herokuapp.com/",
+    "theme_color": "#7B2C77"
+  },
+  {
+    "title": "Dashin Electronic Ecommerce",
+    "description": "A UI design of an electronic company's ecommerce site for my teacher. Following her request, the website's design should be flawed, hence the funky UI.",
+    "project_type": "UI",
+    "technology": "HTML, CSS, React",
+    "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1648183651/my-portfolio/bad-ecommerce-website_jj29rb.png",
+    "website_link": "https://bad-ecommerce.vercel.app/",
+    "theme_color": "#4B5868"
+  }
+]
