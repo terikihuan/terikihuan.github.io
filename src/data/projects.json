@@ -14,7 +14,7 @@
     "project_type": "Web App",
     "technology": "HTML, CSS, React",
     "image": "https://res.cloudinary.com/huan-cloudinary/image/upload/v1648183651/my-portfolio/nju_dashboard_kwtnp3.png",
-    "website_link": "https://nju-dashboard-zh.herokuapp.com/",
+    "website_link": "https://nju-dashboard.vercel.app/",
     "theme_color": "#7B2C77"
   },
   {
